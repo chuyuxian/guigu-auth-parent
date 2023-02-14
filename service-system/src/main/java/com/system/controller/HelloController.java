@@ -5,5 +5,6 @@ public class HelloController {
         System.out.println("hello4 git!!");
         System.out.println("hello4 git!!");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 }
